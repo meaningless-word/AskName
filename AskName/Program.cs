@@ -6,8 +6,7 @@ namespace AskName
     {
         static void Main(string[] args)
         {
-            string myName;
-            myName = "Roman";
+            string myName = "Roman";
 
             Console.WriteLine(myName);
 
